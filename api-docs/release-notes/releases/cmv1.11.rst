@@ -19,7 +19,7 @@ List `checks <https://developer.rackspace.com/docs/cloud-monitoring/v1/develope
 - List `notification plans <https://developer.rackspace.com/docs/cloud-monitoring/v1/developer-guide/#list-notification-plans>`__
   for an account.
 
-- List `supressions <https://developer.rackspace.com/docs/cloud-monitoring/v1/developer-guide/#list-suppressions>`__
+- List `suppressions <https://developer.rackspace.com/docs/cloud-monitoring/v1/developer-guide/#list-suppressions>`__
   for an account.
 
 

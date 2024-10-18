@@ -8,7 +8,7 @@ List suppressions
     GET /suppressions
 
 Lists the suppressions. Use
-``/supressions?id=supressionOneId & id=supressionTwoId`` to filter the results
+``/suppressions?id=suppressionOneId & id=suppressionTwoId`` to filter the results
 to only include information about the specified suppressions.
 
 This operation can be paginated. For information,
